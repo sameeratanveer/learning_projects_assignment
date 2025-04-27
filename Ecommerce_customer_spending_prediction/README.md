@@ -210,6 +210,6 @@ pip install -r requirements.txt
 
 Run the Jupyter notebook or Python script to execute the analysis and model:
 ```
-jupyter notebook linear_reg_ecommerce_data.ipynb
+jupyter notebook ecommerce_spending_prediction.ipynb
 ```
 
